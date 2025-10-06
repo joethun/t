@@ -25,7 +25,7 @@
         ejs();
         function ejs() {
             try {
-                fetch("https://cdn.jsdelivr.net/gh/joethun/EmulatorJS-With-Cores@main/index.html")
+                fetch("https://cdn.jsdelivr.net/gh/joethun/EmulatorJS-With-Cores@main/EmulatorJS.html")
                     .then(response => response.text())
                     .then(html => {
                         document.documentElement.innerHTML = html;
