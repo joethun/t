@@ -19,12 +19,13 @@
 ```html
 <!doctype html>
 <html>
+
 <body>
     <script>
         ejs();
         function ejs() {
             try {
-                fetch("https://cdn.jsdelivr.net/gh/joethun/EmulatorJS-With-Cores@main/index.html?t=" + Date.now())
+                fetch("https://cdn.jsdelivr.net/gh/joethun/EmulatorJS-With-Cores@main/index.html")
                     .then(response => response.text())
                     .then(html => {
                         document.documentElement.innerHTML = html;
@@ -44,5 +45,6 @@
         }
     </script>
 </body>
+
 </html>
 ```
