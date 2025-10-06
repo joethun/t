@@ -2,9 +2,17 @@
   <img src="https://cdn.jsdelivr.net/gh/EmulatorJS/EmulatorJS@main/docs/Logo-light.png" width="275"/><br>
   
   #
-  **https://github.com/EmulatorJS/EmulatorJS** <br><br>
-  **This project was not created by me nor am I affiliated with it in any way** <br><br>
-  Example HTML For The Demo:
+  
+  **https://github.com/EmulatorJS/EmulatorJS**
+  
+</div>
+
+> [!NOTE]  
+> **This project was not created by me nor am I affiliated with it in any way**
+
+<div align="center">
+  
+  ## Example HTML For The Demo:
   
 </div>
 
